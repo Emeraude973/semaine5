@@ -2,58 +2,58 @@ body{
     background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTljlRhV1WWAEnQ9cIUE286M5i-y26kdVtED3m13pQled9b1U_A");
     padding:0;
     margin:0;
-}
+    }
 .conteneur{
     padding: 10px;
     margin: 15px;
     text-align:justify;
-    
-     
-}
+    max-width:960px;
+    width:100%;
+          }
 header{
     background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAdhA4ze9cjI8xn6FQ-jvX8SPF3Ljf5EPGyjACwRbADwn__a6a");
     padding:10px;
     width:100%;
     height: 100%;
-    }
+      }
 .image{
     width:20%;
     display:inline-blocK;
     vertical-align:top;
-}
+      }
 .Entete{
     width:40%;
     display:inline-blocK;
     vertical-align:top;
     margin-left:7%;
-}
+       }
 main{
       width:90%;
       margin:auto;
-}
+    }
 .colonne{
     width:30%;
     display:inline-block;
     vertical-align:top;
     padding:10px;
-}
+        }
 p{
     text-align:justify;
-}
+ }
 footer{
     background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAdhA4ze9cjI8xn6FQ-jvX8SPF3Ljf5EPGyjACwRbADwn__a6a");
     padding:10px;
     width:100%;
     height: 100%;
-    }
+      }
 footer p{
     text-align:center;
     width:40%;
     display:inline-blocK;
     vertical-align:top;
     margin-left:30px;
-}
+        }
 iframe{
     display:inline-block;
     vertical-align:top;
-}
+      }
